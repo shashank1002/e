@@ -1,0 +1,50 @@
+,PLACE,TIME,OCCURRANCE DATE,ROAD,LATITUDE,LONGITUDE,AGE,ACCIDENT TYPE,GENDER,TYPE OF SPOT,WEATHER,TYPE OF COLLISION,month,day_of_year,day_of_week,hour,accident
+0,Khuian Sarwar,20:45:00,2021-08-03,NH -NH--15--Pathankot-Amritsar-Bhatinda-Gagnagar,29.99857,73.91251,26,Non-fatal /Serious,M,Mid Block -At or near the curve,Rain,Head on collision,8,215,1,20,1
+1,Khuian Sarwar,16:00:00,2021-01-25,"NH-15, Pathankot-Amritsar-Bhatinda-Ganganagar",30.11778,74.05099,13-18,Non-fatal /Serious,,Mid Block - Straight Road,Fog,Head Tail between Motor Vehicles,1,25,0,16,1
+2,Khuian Sarwar,01:02:00,2021-05-27,"NH-15, Pathankot-Amritsar-Bhatinda-Ganganagar",30.0964,74.04447,19-29	,Non-fatal /Serious,,Intersection with ATC signal - Rotary,Fog,Head Tail between Motor Vehicles,5,147,3,1,1
+3,Khuian Sarwar,00:00:01,2021-02-16,"NH-15, Pathankot-Amritsar-Bhatinda-Ganganagar",30.09937,74.04206,55-64	,Non-fatal /Serious,,Mid Block - Narrow Bridge,Fog,Head Tail between Motor Vehicles,2,47,1,0,1
+4,Khuian Sarwar,,2021-05-04,NH - NH--15--Pathankot-Amritsar-Bhatinda-Ganganagar,30.09802,74.04149,13,Non-fatal /Serious	,M,Mid Block - Narrow Bridge,Fog,Head Tail between Motor Vehicles,5,124,1,0,1
+5,City2 Abohar,,2021-09-26,SH - SH--14--Abohar to Suratgarh Road,30.12142,74.20849,16-20,Non-fatal /Serious,F,Mid Block - Straight Road,Normal,Pedestrian,9,269,6,0,3
+6,City2 Abohar,05:45:00,2021-09-26,SH - SH--14--Abohar to Suratgarh Road,30.12142,74.20849,16-20,Non-fatal /Serious,F,Mid Block - Straight Road,Normal,Pedestrian,9,269,6,5,3
+7,City2 Abohar,05:45:00,2021-09-26,SH - SH--14--Abohar to Suratgarh Road,30.12142,74.20849,16-20,Fatal ,F,Mid Block - Straight Road,Normal,Pedestrian,9,269,6,5,3
+8,Khuian Sarwar,,2021-02-08,	NH - NH--10--Dabwali to Sulemanke up to Pakistan Border,30.11431,74.09816,13-18,Non-fatal /Serious,M,Mid Block - Straight Road,Fog,Overtaking,2,39,0,0,1
+9,City2 Abohar,17:00:00,2021-04-10,"SH-14, Abohar to Suratgarh Road",30.13169,74.18445,19-29,Fatal,,Intersection - T. Intersection,Normal,Head On Collision,4,100,5,17,3
+10,City2 Abohar,17:00:00,2021-04-10,"SH-14, Abohar to Suratgarh Road",30.13169,74.18445,55-64	,Non-fatal /Serious,,Intersection - T. Intersection,Normal,Head On Collision,4,100,5,17,3
+11,City2 Abohar,17:00:00,2021-04-10,"SH-14, Abohar to Suratgarh Road",30.13169,74.18445,55-64	,Non-fatal /Serious,,Intersection - T. Intersection,Normal,Head On Collision,4,100,5,17,3
+12,City Jalalabad,16:15:00,2013-01-14,MDR - MDR--41--Bathinda Muktsar Jalalabad,30.5955,74.2669,18,Fatal,M,Mid Block - Narrow Bridge,Normal,Head On Collision,1,14,0,16,1
+13,City Jalalabadity,15:30:00,2021-06-04,"MDR-41, Bathinda Muktsar Jalalabad",30.56503,74.31538,30-45,Fatal,,Mid Block - Straight Road,Normal,Head On Collision,6,155,4,15,1
+14,City Jalalabad,09:00-10:00,2021-07-03,MDR - MDR--41--Bathinda Muktsar Jalalabad	,30.60249,74.25376,,Non-fatal /Serious/Fatal,"M,F",Intersection - T. Intersection,Normal,Multiple Pile Up,7,184,5,0,1
+15,Arniwala,23:30:00,2021-10-26,MDR - MDR--40--Malout Fazilka Road,30.422,74.0558,30,Fatal,M,Mid Block - Straight Road,Normal,Pedestrian,10,299,1,23,1
+16,Arniwala,00:30:00,2021-01-15,"MDR-40, Malout Fazilka Road",30.44509,74.07605,19-29,Non-fatal /Serious/Fatal,,Mid Block - Straight Road,Normal,Head On Collision,1,15,4,0,1
+17,Arniwala,17:00:00,2021-02-09,MDR - MDR--40--Malout Fazilka Road,30.45486,74.05854,30-45	,Non-fatal /Serious/Fatal,,Mid Block - Straight Road,Normal,Head On Collision,2,40,1,17,1
+18,Arniwala,10:00	,2021-06-13,MDR - MDR--40--Malout Fazilka Road,30.46167,74.06953,25-33,Non-fatal /Serious/Fatal,"M,F",Mid Block - Straight Road,Normal,Hit Cyclist,6,164,6,0,2
+19,Arniwala,13:30:00,2021-08-23,"MDR-40, Malout Fazilka Road",30.40841,74.02897,30-45	,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Hit Accidental Vehicle,8,235,0,13,2
+20,Arniwala,05:45:00,2021-08-27,"MDR-40, Malout Fazilka Road",30.43207,74.06077,19-29,Fatal,,Mid Block - Straight Road,Normal,Head Tail between Motor Vehicles,8,239,4,5,1
+21,Arniwala,19:30:00,2021-11-17,"MDR-40, Malout Fazilka Road",30.43385,74.06095,19-29,Fatal,,Mid Block - Straight Road,Normal,Head Tail between Motor Vehicles,11,321,2,19,1
+22,Arniwala,10:00:00,2021-06-13,"MDR-40, Malout Fazilka Road",30.46167,74.06953,,Non-fatal /Serious/Fatal,,Mid Block - Straight Road,Normal,Hit Cyclist,6,164,6,10,2
+23,Arniwala,13:30:00,2021-08-23,MDR - MDR--40--Malout Fazilka Road,30.40841,74.02897,30-45	,Non-fatal /Serious,"M,F",Mid Block - Straight Road,Normal,Hit Accidental Vehicle,8,235,0,13,2
+24,Arniwala,09:00:00,2021-05-21,MDR - MDR--40--Malout Fazilka Road,30.45308,74.05854,25,Fatal,M,Mid Block - Straight Road,Normal,Others,5,141,4,9,1
+25,Sadar Jalalabad,14:00	,2021-08-28,SH - SH--20--Zira Ferozepur Fazilka,30.59289,74.17731,22-27,Fatal,M,Mid Block - Straight Road,Normal,Head On Collision,8,240,5,0,1
+26,Amir Khas,17:20:00,2021-12-08,SH - SH--20--Zira Ferozepur Fazilka,30.66191,74.29182,26-33,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Overtaking,12,342,2,17,1
+27,Sadar Jalalabad,15:10:00,2021-02-25,"SH-20, Zira Ferozepur Fazilka",30.57631,74.16862,,Fatal,,Mid Block - Straight Road,Normal,Pedestrian,2,56,3,15,1
+28,Sadar Jalalabad,20:00:00,2021-03-11,"SH-20, Zira Ferozepur Fazilka",30.58587,74.18147,19-29,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Pedestrian,3,70,3,20,1
+29,Sadar Jalalabad,18:30:00,2021-03-18,Sadar Jalalabad,30.57749,74.17002,30-45,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Hit Vehicle at 90 Degree,3,77,3,18,1
+30,Amir Khas,11:50:00,2021-11-20,"SH-20, Zira Ferozepur Fazilka",30.69063,74.32792,19-29,Non-fatal /Serious,,Intersection with ATC signal - Cross Intersection,Normal,Hit Vehicle at 90 Degree,11,324,5,11,1
+31,Amir Khas,12:45:00,2021-10-07,SH - SH--20--Zira Ferozepur Fazilka,30.63915,74.2923,21-35,Non-fatal /Serious/Fatal,"M,F",Mid Block - Straight Road,Normal,Side Swap,10,280,3,12,1
+32,Sadar Jalalabad,16:00:00,2021-04-03,"SH-20, Zira Ferozepur Fazilka",30.58663,74.1807,30-45,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Head Tail between Motor Vehicle,4,93,5,16,1
+33,Sadar Jalalabad,09:45:00,2021-05-11,"SH-20, Zira Ferozepur Fazilka",30.56785,74.16205,19-29,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Hit Accidental Vehicle,5,131,1,9,1
+34,Sadar Jalalabad,19:30:00,2021-03-21,"SH-20, Zira Ferozepur Fazilka",30.58648,74.18293,19-29,Non-fatal /Seriou,,Mid Block - Straight Road,Normal,Others,3,80,6,19,1
+35,Sadar Jalalabad,11:15:00,2021-04-10,"SH-20, Zira Ferozepur Fazilka",30.59928,74.20838,30-45,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Others,4,100,5,11,1
+36,City Fazilka,23:20:00,2021-01-27,"SH-20, Zira Ferozepur Fazilka",30.41243,74.03522,,,,Mid Block - Straight Road,Normal,Others,1,27,2,23,1
+37,City Fazilka,23:26:00,2021-08-22,"SH-20, Zira Ferozepur Fazilka",30.40549,74.03402,13-45,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Others,8,234,6,23,1
+38,City Fazilka,13:50:00,2021-09-08,"SH-20, Zira Ferozepur Fazilka",30.40527,74.0338,30-45,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Others,9,251,2,13,1
+39,City Fazilka,23:00:00,2021-11-03,MCR - MCR--F01--Fazilka Municipal Council Road,30.3988,74.03241,25,Non-fatal /Serious,M,Mid Block - Straight Road,Normal,Others,11,307,2,23,1
+40,Sadar Fazilka,10:30:00,2021-07-29,VR/LR - VR/LR--F01--Village Link Roads of Fazilka District,30.49771,74.08191,40,Non-fatal /Serious,F,Mid Block - Straight Road,Normal,Pedestrian,7,210,3,10,1
+41,Sadar Fazilka,17:30:00,2021-11-21,VR/LR - VR/LR--F01--Village Link Roads of Fazilka District	,30.37966,74.04241,60,Non-fatal /Serious,M,Mid Block - Straight Road,Normal,Head On Collision,11,325,6,17,1
+42,Sadar Fazilka,18:30	,2021-08-18,"VR/LR-F01, Village Link Roads of Fazilka District",30.35974,73.95692,56,Fatal,M,Mid Block - Straight Road,Normal,Cyclist ,8,230,2,0,1
+43,Khui-Khera,13:00:00,2021-01-11,"VR/LR-F01, Village Link Roads of Fazilka District",30.30808,73.99701,30-45,Fatal,,Mid Block - Straight Road,Normal,Others,1,11,0,13,1
+44,Khui-Khera,12:45:00,2021-04-05,"VR/LR-F01, Village Link Roads of Fazilka District",30.28862,74.04775,46-54,Fatal,,Mid Block - Straight Road,Normal,Others,4,95,0,12,1
+45,Khui-Khera,07:45:00,2021-04-05,"VR/LR-F01, Village Link Roads of Fazilka District",30.28261,74.13868,30-45,Fatal,,Mid Block - Straight Road,Normal,Others,4,95,0,7,1
+46,Khui-Khera,15:00:00,2021-02-08,"VR/LR-F01, Village Link Roads of Fazilka District",30.42112,74.00361,19-45,Fatal,,Mid Block - Straight Road,Normal,Others,2,39,0,15,1
+47,Sadar Fazilka,19:15:00,2021-03-20,"VR/LR-F01, Village Link Roads of Fazilka District",30.35863,74.03897,19-29,Non-fatal /Serious,,Mid Block - Straight Road,Normal,Others,3,79,5,19,1
+48,Sadar Fazilka,10:40:00,2021-08-13,"VR/LR-F01, Village Link Roads of Fazilka District",30.45545,74.08498,19-29,Fatal,,Mid Block - Straight Road,Normal,Others,8,225,4,10,1
